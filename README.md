@@ -1,10 +1,10 @@
-# TrianSec SDK
+# TriAnSec SDK
 
 [![PyPI version](https://badge.fury.io/py/triansec.svg)](https://badge.fury.io/py/triansec)
 [![Python versions](https://img.shields.io/pypi/pyversions/triansec.svg)](https://pypi.org/project/triansec/)
 [![License](https://img.shields.io/pypi/l/triansec.svg)](https://opensource.org/licenses/MIT)
 
-**TrianSec SDK** is a lightweight Python SDK for integrating the TrianSec API Security Platform into your FastAPI/Starlette applications. It provides behavior-driven API protection without modifying your existing business logic.
+**TriAnSec SDK** is a lightweight Python SDK for integrating the TrianSec API Security Platform into your FastAPI/Starlette applications. It provides behavior-driven API protection without modifying your existing business logic.
 
 ---
 
@@ -44,7 +44,7 @@ pip install triansec[dev]
 
 ### 1. Get Your API Key
 
-Sign up at [TrianSec](https://triansec.com) and generate your API key from the dashboard.
+Sign up at [TriAnSec](https://triansec.com) and generate your API key from the dashboard.
 
 ### 2. Add the Middleware
 
