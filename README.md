@@ -272,7 +272,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Support
 
 - Documentation: [https://docs.triansec.com](https://docs.triansec.com)
-- Issues: [https://github.com/triansec/triansec-sdk/issues](https://github.com/triansec/triansec-sdk/issues)
+- Issues: [https://github.com/Anikk02/triansec-sdk/issues](https://github.com/triansec/triansec-sdk/issues)
 - Email: support@triansec.com
 
 ---
