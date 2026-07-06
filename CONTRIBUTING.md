@@ -1,6 +1,6 @@
-# Contributing to TrianSec SDK
+# Contributing to TriAnSec SDK
 
-First off, thank you for considering contributing to **TrianSec SDK**! 🎉
+First off, thank you for considering contributing to **TriAnSec SDK**! 🎉
 
 We welcome contributions of all kinds and appreciate your help in making the SDK more secure, reliable, and developer-friendly.
 
@@ -234,7 +234,7 @@ Project maintainers follow this release workflow:
 
 # License
 
-By contributing to **TrianSec SDK**, you agree that your contributions will be licensed under the **MIT License**.
+By contributing to **TriAnSec SDK**, you agree that your contributions will be licensed under the **MIT License**.
 
 ---
 
@@ -247,4 +247,4 @@ If you have questions or need help:
 
 ---
 
-Thank you for helping make **TrianSec SDK** better! 🚀
+Thank you for helping make **TriAnSec SDK** better! 🚀
